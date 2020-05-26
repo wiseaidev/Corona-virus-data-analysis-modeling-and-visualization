@@ -1,1 +1,1 @@
-# Modeling-Covid-19-SEIRD-
+# Modeling-Covid-19-SEIRD-model 
