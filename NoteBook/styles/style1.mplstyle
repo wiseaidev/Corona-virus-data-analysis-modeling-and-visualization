@@ -1,0 +1,30 @@
+lines.color: 4e5d6c
+patch.edgecolor: 4e5d6c
+
+text.color: df691b
+
+axes.facecolor: 2b3e50
+axes.edgecolor: 4e5d6c
+axes.labelcolor: df691b
+axes.prop_cycle: cycler('color', ['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+                                            # color cycle for plot lines
+                                            # as list of string colorspecs:
+                                            # single letter, long name, or
+                                            # web-style hex
+axes.axisbelow: True
+
+xtick.color: 8c949d
+ytick.color: 8c949d
+
+grid.color: 4e5d6c
+
+figure.facecolor: 2b3e50
+figure.edgecolor: 2b3e50
+
+savefig.facecolor: 2b3e50
+savefig.edgecolor: 2b3e50
+
+legend.fancybox: True
+legend.shadow: True
+legend.frameon: True
+legend.framealpha: 0.6
